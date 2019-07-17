@@ -1,0 +1,8 @@
+name: Antioch
+version: 0.3
+author: Tiffaa
+main: en.tiffaa.antioch.Antioch
+commands:
+  antioch:
+    description: Throw the Holy Hand Grenade of Antioch
+    permission: antioch.use
