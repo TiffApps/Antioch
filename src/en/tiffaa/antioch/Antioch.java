@@ -4,6 +4,11 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 import en.tiffaa.antioch.commands.CommandAntioch;
 
+/*
+* Created by Tiffaa the 28/07/2018
+* @author Tiffaa
+*/
+
 public class Antioch extends JavaPlugin {
 	
 	@Override
